@@ -6,8 +6,8 @@ subtitle: I'm a linguist, researcher, writer, and artist, but currently working 
 
 profile:
   align: right
-  image: len-profile.png
-  image_circular: true # crops the image to make it circular
+  image: beltranlen-profile.jpg
+  image_circular: false # crops the image to make it circular
 
 
 news: false # includes a list of news items
