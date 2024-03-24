@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lenciabeltran.github.io/sitemap.xml
+Sitemap: https://lenciabeltran.github.io/refactored-guacamole/sitemap.xml
