@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I'm a linguist, researcher, writer, and artist, but currently working at <a href='https://www.library.cmu.edu/about/people/lencia-beltran'>Carnegie Mellon University Libraries as an Open Science Program Coordinator</a>
+subtitle: I'm a linguist, researcher, writer, and artist, but currently working at Carnegie Mellon University Libraries as an<a href='https://www.library.cmu.edu/about/people/lencia-beltran'>Open Science Program Coordinator</a>
 
 profile:
   align: right
