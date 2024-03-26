@@ -15,4 +15,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Ah yes, I'll have to write a beautiful message here!
+This website is still being built - but you can have a peak!
